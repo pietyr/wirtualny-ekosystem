@@ -3,4 +3,6 @@ project(wirtualny_ekosystem)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(wirtualny_ekosystem main.cpp)
+add_executable(wirtualny_ekosystem main.cpp
+        organizm.cpp
+        organizm.h)
