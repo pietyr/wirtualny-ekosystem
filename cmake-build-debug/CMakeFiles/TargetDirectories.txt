@@ -1,3 +1,0 @@
-/mnt/hdd/Dev/Repos/Studia/Semestr 2/wirtualny-ekosystem/cmake-build-debug/CMakeFiles/wirtualny_ekosystem.dir
-/mnt/hdd/Dev/Repos/Studia/Semestr 2/wirtualny-ekosystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/hdd/Dev/Repos/Studia/Semestr 2/wirtualny-ekosystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
