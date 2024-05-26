@@ -8,4 +8,16 @@ add_executable(wirtualny_ekosystem main.cpp
         organizm.h
         ustawienia.h
         generatorLosowy.cpp
-        generatorLosowy.h)
+        generatorLosowy.h
+        Sasiedztwo.cpp
+        Sasiedztwo.h
+        Prostokat.cpp
+        Prostokat.h
+        Kwadrat.cpp
+        Kwadrat.h
+        Obliczenia.cpp
+        Obliczenia.h
+        Mieszkaniec.cpp
+        Mieszkaniec.h
+        UrzadzenieElektryczne.cpp
+        UrzadzenieElektryczne.h)
